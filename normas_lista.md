@@ -19,9 +19,8 @@ no debería ser lo habitual, aunque estén permitidos los *offtopics*, intentemo
 a usar la lista para otros temas de forma reiterada o de *secuestrar* repetidamente hilos para desviarlos a temas no centrados en la informatica, se
 exponen a ser **LARTeados públicamente**, puestos en evidencia y expulsados de la lista.
 
-4. Sobre los materiales sujetos a copyright, independientemente de nuestras opiniones sobre el tema, queda prohibida su difusión a través de la
-lista terminantemente. Esto incluye a: música, software, películas, materiales de cursos y formación, documentación de proveedores y, en
-general, cualquier contenido sujeto a derechos de autor. Esto es importante, puesto que puede ocasionar el cierre de la lista e incluso incurrir
+4. Sobre los materiales sujetos a copyright, independientemente de nuestras opiniones sobre el tema,  queda prohibida su difusión a través de la lista terminantemente de todos aquellos materiales **cuya licencia no permita su libre distribución**. Esto incluye a: música, software, películas, materiales de cursos y formación, documentación de proveedores, scripts, código fuente, ficheros de configuración y, en
+general, cualquier contenido sujeto a derechos de autor cuya licencia no permita su libre distribución. Esto es importante, puesto que puede ocasionar el cierre de la lista e incluso incurrir
 en sanciones para los dueños y los miembros implicados. Por nuestra parte, el desacato de esta norma conllevará el cierre inmediato del hilo y 
 la expulsión de la persona que haya cometido la infracción.
 
